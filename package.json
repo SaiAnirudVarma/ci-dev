@@ -1,0 +1,14 @@
+{
+  "name": "dev-ci-node",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD example with GitHub Actions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sai Uppalapati",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
